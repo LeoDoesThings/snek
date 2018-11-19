@@ -6,7 +6,7 @@ Mobile device support is present.
 
 Snake source code explanation and installation guide is [here](https://explainjava.com/javascript-snake/).
 
-You can play retro snake game [here](https://explainjava.com/snake-game/).
+You can play retro snake game [here](https://snek2.glitch.me/).
 
 If you want to add or to fix something - PRs are welcome.
 
